@@ -15,4 +15,5 @@ public class UserBalance {
     @Id
     private int userId;
     private int price;
+    private int num;
 }
